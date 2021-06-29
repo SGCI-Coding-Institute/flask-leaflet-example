@@ -2,7 +2,7 @@
 
 To check out this project, use
 
-> git clone https://github.com/SGCI-Coding-Institute/flask-leaflet-example.git.
+> git clone https://github.com/SGCI-Coding-Institute/flask-leaflet-example.git 
 
 After you have checked out the project, you can use these commands to update the code:
 
