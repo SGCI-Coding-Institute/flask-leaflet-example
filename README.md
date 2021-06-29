@@ -8,7 +8,7 @@ After you have checked out the project, you can use these commands to update the
 
 - git pull (makes sure you have the latest version of the code)
 - git add *newfile* (adds a new file)
-- git commit -am "Your commit message" (commits all changes to files)
+- git commit -am "Your commit message" (commits all changes to files with the associated comments)
 - git push (pushes your changes to the GitHub repository)
 
 To run the project, you will need to install Flask. See the installation instructions at https://flask.palletsprojects.com/en/2.0.x/installation/#install-flask.
